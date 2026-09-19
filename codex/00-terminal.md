@@ -1,0 +1,1 @@
+# O Terminal  ## O que é um shell  ## Primeiros Comandos  ## O que ainda nao entendi

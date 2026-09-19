@@ -1,0 +1,1 @@
+Vocab: path - caminho/para/a/pasta/desejada; home - caminho/para/pasta/user/atual; cwd - caminho/para/pasta/atual; root - C:\ (ou qualquer outra letra que descreva o disco local).
